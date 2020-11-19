@@ -11,15 +11,15 @@ Eu sou Marcos Martins, Backend Developer atualmente cursando Análise e Desenvol
 - Estrutura de dados
 - Git
 - Linux
-- Docker
 - C
-- Firebase
 - Backend
   - NodeJS
   - Express.js
   - Java
   - Spring 
   - SQL (OracleDB,SQL Server, MySQL, Postgres)
+  - Firebase
+  - Docker
 - Frontend
   - HTML
   - CSS
