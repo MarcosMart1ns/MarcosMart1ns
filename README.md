@@ -1,16 +1,44 @@
-### Hi there 👋
 
-<!--
-**xMartinezZz/xMartineZzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-Here are some ideas to get you started:
+Eu sou Marcos Martins, Backend Developer atualmente cursando Análise e Desenvolvimento de Sistemas na UNASP, estou sempre aprendendo algo novo e aberto a propostas de projeto.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+##  👨🏽‍💻 Conhecimentos: 
+- API's REST
+- Estrutura de dados
+- Git
+- Linux
+- Docker
+- C
+- Firebase
+- Backend
+  - NodeJS
+  - Express.js
+  - Java
+  - Spring 
+  - SQL (OracleDB,SQL Server, MySQL, Postgres)
+- Frontend
+  - HTML
+  - CSS
+  - JavaScript
+- Mobile
+  - Flutter/Dart
+
+
+## 🌱 No momento estou aprendendo: 
+
+- Spring Framework
+- Clean Code
+- SOLID
+
+## 📫 Contato: 
+<div>
+<a href="https://www.linkedin.com/in/xMartinezZz/">
+  <img align="left" alt="Abhishek's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+<a href="malito:marcos_36ma@hotmail.com">
+  <img align="left" alt="Abhishek's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.4/icons/gmail.svg" />
+</div>
+
