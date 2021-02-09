@@ -33,6 +33,7 @@ Eu sou Marcos Martins, Backend Developer atualmente cursando Análise e Desenvol
 - Spring Framework
 - Clean Code
 - SOLID
+- TDD
 
 ## 📫 Contato: 
 <div>
