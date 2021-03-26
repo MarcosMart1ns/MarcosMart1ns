@@ -7,7 +7,7 @@ Eu sou Marcos Martins, Backend Developer atualmente cursando Análise e Desenvol
 
 
 ##  👨🏽‍💻 Conhecimentos: 
-- API's REST
+- API's REST e SOAP
 - Estrutura de dados
 - Git
 - Linux
@@ -26,6 +26,8 @@ Eu sou Marcos Martins, Backend Developer atualmente cursando Análise e Desenvol
   - JavaScript
 - Mobile
   - Flutter/Dart
+- Mensageria
+  - MQ Series
 
 
 ## 🌱 No momento estou aprendendo: 
