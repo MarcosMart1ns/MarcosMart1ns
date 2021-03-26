@@ -16,7 +16,7 @@ Eu sou Marcos Martins, Backend Developer atualmente cursando Análise e Desenvol
   - NodeJS
   - Express.js
   - Java
-  - Spring 
+  - Spring Framework (Boot, Data, Security e Web)
   - SQL (OracleDB,SQL Server, MySQL, Postgres)
   - Firebase
   - Docker
@@ -30,10 +30,9 @@ Eu sou Marcos Martins, Backend Developer atualmente cursando Análise e Desenvol
 
 ## 🌱 No momento estou aprendendo: 
 
-- Spring Framework
-- Clean Code
-- SOLID
 - TDD
+- Jenkins
+- Testes Automatizados
 
 ## 📫 Contato: 
 <div>
