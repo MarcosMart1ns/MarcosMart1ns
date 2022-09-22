@@ -34,7 +34,8 @@ Eu sou Marcos Martins, Backend Developer formado em Análise e Desenvolvimento d
 ## 🌱 No momento estou aprendendo: 
 
 - TDD
-- Jenkins
+  - Testes Automatizados
+  - Easy Mock, Junit, PowerMock
 - Testes Automatizados
 
 ## 📫 Contato: 
