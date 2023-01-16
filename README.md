@@ -29,14 +29,15 @@ Eu sou Marcos Martins, Backend Developer formado em Análise e Desenvolvimento d
   - Flutter/Dart
 - Mensageria
   - MQ Series
-
+- TDD
+- Frameworks de teste
+  - Easy Mock, Junit, PowerMock
 
 ## 🌱 No momento estou aprendendo: 
 
-- TDD
-  - Testes Automatizados
-  - Easy Mock, Junit, PowerMock
-- Testes Automatizados
+- Apache Kafka
+- Arquitetura de Software
+- Design Patterns
 
 ## 📫 Contato: 
 <div>
