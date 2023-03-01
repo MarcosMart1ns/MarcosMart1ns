@@ -7,7 +7,7 @@ Eu sou Marcos Martins, Backend Developer formado em Análise e Desenvolvimento d
 
 
 ##  👨🏽‍💻 Conhecimentos: 
-- API's REST e SOAP
+- API's REST
 - Estrutura de dados
 - Git
 - Linux
@@ -17,7 +17,6 @@ Eu sou Marcos Martins, Backend Developer formado em Análise e Desenvolvimento d
   - Express.js
   - Java
   - Spring Framework (Boot, Data, Security e Web)
-  - JSP
   - SQL (OracleDB,SQL Server, MySQL, Postgres)
   - Firebase
   - Docker
