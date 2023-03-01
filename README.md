@@ -1,10 +1,8 @@
 
 ## Eaí <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-Eu sou Marcos Martins, Backend Developer formado em Análise e Desenvolvimento de Sistemas na UNASP, estou sempre aprendendo algo novo e aberto a propostas de projeto.
-
-
-
+Eu sou Marcos Martins, Backend Developer formado em Análise e Desenvolvimento de Sistemas na UNASP e cursando pós graduação em Engenharia de Software na PUC. 
+Estou sempre aprendendo algo novo e aberto a propostas de projeto.
 
 ##  👨🏽‍💻 Conhecimentos: 
 - API's REST
