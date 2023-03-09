@@ -40,7 +40,7 @@ Estou sempre aprendendo algo novo e aberto a propostas de projeto.
 
 ## 📫 Contato: 
 <div>
-<a href="https://www.linkedin.com/in/xMartinezZz/">
+<a href="https://www.linkedin.com/in/whoismartins/">
   <img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 <a href="mailto:marcos_36ma@hotmail.com">
   <img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.4/icons/gmail.svg" />
