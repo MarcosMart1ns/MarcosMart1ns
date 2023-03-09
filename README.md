@@ -18,6 +18,7 @@ Estou sempre aprendendo algo novo e aberto a propostas de projeto.
   - SQL (OracleDB,SQL Server, MySQL, Postgres)
   - Firebase
   - Docker
+  - Kubernetes
 - Frontend
   - HTML
   - CSS
@@ -35,7 +36,6 @@ Estou sempre aprendendo algo novo e aberto a propostas de projeto.
 - Arquitetura de testes unitários
 - Arquitetura de Software
 - Design Patterns
-- Kubernetes
 - Microserviços
 
 ## 📫 Contato: 
