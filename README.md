@@ -13,7 +13,7 @@ Estou sempre aprendendo algo novo e aberto a propostas de projeto.
 - Backend
   - NodeJS
   - Express.js
-  - Java 8/11
+  - Java 11
   - Spring Framework (Boot, Data, Security e Web)
   - SQL (OracleDB,SQL Server, MySQL, Postgres)
   - Firebase
