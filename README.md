@@ -1,7 +1,7 @@
 
 ## Eaí <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-Eu sou Marcos Martins, Backend Developer formado em Análise e Desenvolvimento de Sistemas na UNASP e cursando Pós Graduação em Engenharia de Software na PUC. 
+Eu sou Marcos Martins, Backend Developer formado em Análise e Desenvolvimento de Sistemas na UNASP e Pós Graduado em Engenharia de Software na PUC. 
 Estou sempre aprendendo algo novo e aberto a propostas de projeto.
 
 ##  👨🏽‍💻 Conhecimentos: 
@@ -19,10 +19,9 @@ Estou sempre aprendendo algo novo e aberto a propostas de projeto.
   - Firebase
   - Docker
   - Kubernetes
+  - Helm
 - Frontend
-  - HTML
-  - CSS
-  - JavaScript
+  - Angular
 - Mobile
   - Flutter/Dart
 - Mensageria
